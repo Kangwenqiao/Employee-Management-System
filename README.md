@@ -1,4 +1,8 @@
 # Employee-Management-System
+
+NCWU software wqkang 202107927
+
+
 初始化菜单：
 --------欢迎来到员工管理系统----------
 1.添加员工
